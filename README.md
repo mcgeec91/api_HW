@@ -1,1 +1,5 @@
 # api_HW
+# Analysis
+- According to the City Latitude vs. Max Temperature graph, temperatures are higher in the southern hemisphere as compared with northern hemisphere suggesting that currently, the southern hemisphere is titled more towards the sun in comparision to the northern hemisphere.
+- According to the City Latitude vs. Cloudiness graph, there is a string of clould coverage at 0%, 20%, 75% and 90% across all latitudes. Therefore, there is no correlation between latitude and cloudiness.
+- According to the City Latitude vs. Wind Speed graph, the majority of the cities have wind speeds under 15 miles per hour. When looking at cities with wind speeds over 15 miles per hours, the locations on the most part are sporadic across the latitudes of the cities that were tested. Therefore, there does not seem to be any correlation between latitude and wind speed. This would make predicting higher wind speeds very difficult according to latitude across the majority of the latitudes. The only small correlation that can be observed is that when looking at the latitudes furthest away from the equator, there seems to be a higher chance of high wind speeds.
