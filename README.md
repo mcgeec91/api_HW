@@ -1,4 +1,3 @@
-# api_HW
 # Analysis
 - According to the City Latitude vs. Max Temperature graph, temperatures are higher in the southern hemisphere as compared with northern hemisphere suggesting that currently, the southern hemisphere is titled more towards the sun in comparision to the northern hemisphere.
 - According to the City Latitude vs. Cloudiness graph, there is a string of clould coverage at 0%, 20%, 75% and 90% across all latitudes. Therefore, there is no correlation between latitude and cloudiness.
